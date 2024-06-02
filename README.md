@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilLabno
 - 👀 I’m interested in crypto, stocks, automatization, pathofexile, and pizza
-- 🌱 I’m currently learning Python, PowerShell, GO lang, bash
+- 🌱 I’m currently learning Python, GO lang, bash, PowerShell
 
 <!---
 kamilLabno/kamilLabno is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
