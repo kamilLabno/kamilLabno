@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KamilLabno
-- 👀 I’m interested in crypto, stocks, automatization, pathofexile, and pizza
+- 👀 I’m interested in automatization, blockchain, stocks, pathofexile, and pizza
 - 🌱 I’m currently learning Python, GO lang, bash, PowerShell
 
 <!---
